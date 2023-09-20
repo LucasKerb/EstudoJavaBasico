@@ -7,5 +7,6 @@ public class Trapezio {
 	h = 5.0;
 	area = (b + B) / 2.0 * h;
 	System.out.println(area);
+	//Exercicio que calcula a area de um trapezio com os valores definidos acima
 	} 
 }
