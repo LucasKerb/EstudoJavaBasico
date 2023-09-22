@@ -27,11 +27,7 @@ public class Ex6 {
 		System.out.printf("Circulo: %.3f%n", areaCircl);
 		System.out.printf("Trapezio: %.3f%n", areaTrap);
 		System.out.printf("Quadrado: %.3f%n", areaQuad);
-		System.out.printf("Retangulo: %.3f%n", areaRet);
-		
-		
-		
-		
+		System.out.printf("Retangulo: %.3f%n", areaRet);		
 		sc.close();
 
 	}

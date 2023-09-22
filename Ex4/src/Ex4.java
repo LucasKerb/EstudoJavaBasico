@@ -14,16 +14,9 @@ public class Ex4 {
 		horas = sc.nextDouble();
 		System.out.println("Digite o quanto o funcionario recebe por hora trabalhada:");
 		valorHora = sc.nextDouble();
-		
 		valorFinal = horas * valorHora;
 		System.out.println("NUMERO: " + n);
 		System.out.printf("SALARIO: R$ %.2f%n", valorFinal);
-		
-		
-		
-		
-		
-		
 		sc.close();
 	}
 
